@@ -1,10 +1,10 @@
 ### Hello there, I'm Charles.
 
-**I'm a full stack developer and and apprentice in Android (Kotlin) development**
+**I'm a full stack developer and an apprentice in Android (Kotlin) development**
 
 **🔭 I’m currently working on ...**
-- Optimizing the website (technology and SEO) and developing new features on an admin panel for Heart and Heart Las Vegas. ❤️
-- Working on few Android projects for Norulab. 💪
+- Some top secret projects. 👀
+- Optimizing the existing app and developping new features for ATIS.cloud. 💪
 
 **🌱 I’m currently learning ...**
 - Learning in much more depth web development
