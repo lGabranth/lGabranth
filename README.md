@@ -1,6 +1,6 @@
 ### Hello there, I'm Charles.
 
-**I'm a full stack developer and an apprentice in Android (Kotlin) development**
+**I'm a full stack developer and a trainer working as an employee and a freelance**
 
 **🔭 I’m currently working on ...**
 - Some top secret projects. 👀
@@ -8,8 +8,6 @@
 
 **🌱 I’m currently learning ...**
 - Learning in much more depth web development
-- Using Docker to deploy solutions, and monitoring containers
-- Android development
 - Machine learning
 
 **📫 How to reach me: ...**
