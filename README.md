@@ -1,10 +1,10 @@
 ### Hello there, I'm Charles.
 
-**I'm a full stack developer and a trainer working as an employee and a freelance**
+**I'm a full stack lead developer and a trainer working as an employee and a freelance**
 
 **🔭 I’m currently working on ...**
 - Some top secret projects. 👀
-- Optimizing the existing app and developping new features for ATIS.cloud. 💪
+- Reworking all the aps of Vinatis. 💪
 
 **🌱 I’m currently learning ...**
 - Learning in much more depth web development
